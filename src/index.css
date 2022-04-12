@@ -148,12 +148,13 @@ html {
   --clr-black: #000000;
   --clr-darkGray: #384241;
   --clr-white: white;
+  --clr-red: #EE2F4E;
+  --clr-darkBlue: #008FC9;
+  --clr-lightBlue: #59C3FF;
+  --clr-assetOrange: #F57921;
+  --clr-assetYellow: #FAD02C;
+  --clr-assetGreen: #7CC58C;
   
-  --clr-lightBlack: #484848;
-  --clr-borderGray: #919fb5;
-  --clr-assetOrange: #fff4f0;
-  --clr-assetIndigo: #f6f2ff;
-  --clr-assetTeal: #ecfefe;
   --clr-assetGray: #4a5050;
   --clr-buttonTeal: #a0dde2;
 }

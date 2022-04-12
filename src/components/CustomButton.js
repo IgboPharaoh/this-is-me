@@ -71,7 +71,7 @@ const StyledButton = styled.button`
 
   color: ${({ textColor }) => textColor || "var(--white)"};
   background-color: ${({ backgroundColor }) =>
-    backgroundColor || "var(--tealPrimary)"};
+    backgroundColor || "var(--clr-indigoBody)"};
   color: ${({ textColor }) => textColor || "white"};
   text-align: left;
   padding-top: ${({ paddingTopAndBottom }) => paddingTopAndBottom || 1.2}rem;
